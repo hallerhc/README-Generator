@@ -2,11 +2,11 @@
 ## Description
 A command line application that prompts the user for required questions and then saves the answers to a new readme.md file. In this example test.md was used instead of readme.md to insure no other readme.md was overwritten.
 ## Table of Contents
-* [Installation] (#installation)
+* [Installation](#installation)
 
-* [Usage] (#usage)
+* [Usage](#usage)
 
-* [Contribution] (#contribution)
+* [Contribution](#contribution)
 
 
 ![Screen Shot Readme Generator 2 ](https://user-images.githubusercontent.com/100663920/172022441-01b1ef04-9b5d-48e7-bd34-2d0c89580182.png)
