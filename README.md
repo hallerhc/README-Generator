@@ -35,5 +35,4 @@ Email: thehallers@icloud.com
 
 ![Screen Shot Readme Generator](https://user-images.githubusercontent.com/100663920/172022579-e9d2807c-c441-447d-90bc-20a96f0fa805.png)
 
-## Link
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/70f0081e-3548-4e72-a6bd-cb8ccc13c77a
+
